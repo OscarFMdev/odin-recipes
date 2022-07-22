@@ -62,3 +62,7 @@ button {
     border: none;
     cursor: pointer;
 }
+
+img {
+    border-radius: 2rem;
+}
